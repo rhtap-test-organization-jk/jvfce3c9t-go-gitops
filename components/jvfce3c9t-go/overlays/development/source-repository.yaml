@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jvfce3c9t-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/jvfce3c9t-go
